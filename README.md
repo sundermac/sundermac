@@ -3,7 +3,7 @@
 
 <!-- Badge icons come from here https://github.com/Ileriayo/markdown-badges -->
 # 💻 Programming Languages:
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 
 <!-- Badge icons come from here https://github.com/Ileriayo/markdown-badges -->
 # 🎨 Design Tools:
@@ -11,8 +11,8 @@
 
 <!-- Github stats come from here https://github.com/anuraghazra/github-readme-stats -->
 # 📊 GitHub Stats:
-![sundermac's GitHub stats](https://github-readme-stats.vercel.app/api?username=sundermac&show_icons=true&theme=tokyonight)
+[![Sundermac's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=sundermac&show_icons=true&theme=tokyonight#gh-dark-mode-only)](https://github.com/sundermac/github-readme-stats#gh-dark-mode-only)
+[![Sundermac's GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=sundermac&show_icons=true&theme=default#gh-light-mode-only)](https://github.com/sundermac/github-readme-stats#gh-light-mode-only)
 
 ---
-
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
