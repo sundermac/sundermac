@@ -1,7 +1,8 @@
 # 🌩️ About Me
-- 🎓 Studying Interactive Media Design.
-- 💻 I specialize in HTML & CSS, but I enjoy exploring other technologies and languages as well.
-- 🚀 I'm always eager to learn new things and take on new challenges.
+- 🎓 Interactive Media Design student
+- 💻 Specializes in HTML5 & CSS3.
+- 🚀 Passionate about learning and taking on new challenges.
+
 
 <!-- Badge icons come from here https://github.com/Ileriayo/markdown-badges -->
 # 🛠️ Tech Stack:
