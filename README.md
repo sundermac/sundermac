@@ -1,5 +1,5 @@
 # 🌩️ About Me
-- 🎓 Interactive Media Design student
+- 🎓 Currently Studying Interactive Media Design
 - 💻 Specializes in HTML5 & CSS3.
 - 🚀 Passionate about learning and taking on new challenges.
 
