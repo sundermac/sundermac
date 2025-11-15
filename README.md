@@ -3,7 +3,7 @@
 **`Interactive Media Design Student`**
 
 ### 🌩️ About Me
-- 🔭 **Currently working on:** [Character Build](https://github.com/sundermac/macainsh-storm-character-build)  
+- 🔭 **Currently working on:** [FIP](https://github.com/sundermac/macainsh-storm-couples-resort)  
 - 🌱 **Learning:** CSS Animations & Transitions  
 - ⚡ **Fun fact:** I create traditional art in my free time  
 
