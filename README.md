@@ -4,7 +4,7 @@
 
 ### 🌩️ About Me
 - 🔭 **Currently working on:** [FIP](https://github.com/sundermac/macainsh-storm-couples-resort)  
-- 🌱 **Learning:** CSS Animations & Transitions  
+- 🌱 **Learning:** JavaScript 
 - ⚡ **Fun fact:** I create traditional art in my free time  
 
 ### 🛠️ Tech Stack
