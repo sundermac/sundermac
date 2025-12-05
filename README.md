@@ -3,7 +3,7 @@
 **`Interactive Media Design Student`**
 
 ### 🌩️ About Me
-- 🔭 **Currently working on:** [FIP](https://github.com/sundermac/macainsh-storm-couples-resort)  
+- 🔭 **Currently working on:**
 - 🌱 **Learning:** JavaScript 
 - ⚡ **Fun fact:** I create traditional art in my free time  
 
