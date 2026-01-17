@@ -3,10 +3,9 @@
 **`Interactive Media Design Student`**
 
 ### 🌩️ About Me
-- 🔭 **Currently working on:**
 - 🌱 **Learning:** JavaScript 
 - ⚡ **Fun fact:** I create traditional art in my free time  
 
 ### 🛠️ Tech Stack
 - **Languages:** HTML5, CSS3  
-- **Design Tools:** Photoshop, Illustrator, Figma
+- **Design Tools:** Photoshop, Illustrator, InDesign, Figma
